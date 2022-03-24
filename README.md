@@ -36,10 +36,11 @@ The challenge that I encountered was having my version of the project not matchi
 
 3. What questions about web development do you have after completing your submission? (recommended 100 - 300 words) 
 [YOUR ANSWER HERE]
+Most of my questions about web development are based off what working in web development is compared to learning about web development. What are the practical day to day tasks for web developers? What are the kinds of technologies web developers use on a daily bases? How much time do web developers spend on the backend compared to the frontend of their sites? How much should web developers know about databases? What are the skills all aspiring web developers should be familiar with? What are the best practices for students to become good web developers and be candidates for big job roles?
 
 4. If you had a few more hours to work on this project, what would you spend them doing (for example: refactoring certain functions, adding additional features, etc). Be specific. (recommended 100 - 300 words) 
 [YOUR ANSWER HERE]
-
+If I had a few more hours on the project, I would want to add the features in the optional features category. Specifically, the features of making the button pattern of the game randomized and adding a ticking clock as I feel that these features would contribute the most to making the game more enjoyable and challenging. However, I’m trying my best to turn in my application now, so there is some time before the deadline for CodePath employees to review my application. I’m hoping I can improve my skills with writing Javascript and come back to improve the game after hopefully getting the internship at CodePath.
 
 
 ## Interview Recording URL Link
@@ -49,7 +50,7 @@ The challenge that I encountered was having my version of the project not matchi
 
 ## License
 
-    Copyright [YOUR NAME]
+    Copyright Umar Chaudhry
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
